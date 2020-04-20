@@ -17,4 +17,5 @@ Think you found the culprit? Check your answer with the following command:
 
 Replace John Doe with the name of the suspect that you want to check.
 
-For an extra challenge, try and solve the mystery without ever using `git checkout`.
+IMP: Do not use `git checkout` command to switch to a different branch.
+
