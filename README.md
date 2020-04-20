@@ -17,5 +17,5 @@ If you want a `git` way of reading the instructions, try:
 git cat-file blob HEAD:instructions.txt
 ```
 
-Once you have found the killer, send it to Shyam (shyam.rathi@nutanix.com) or on Slack (Shyam Rathi).
+Once you have found the killer, send it to Shyam by email (shyam.rathi@nutanix.com) or on Slack (Shyam Rathi).
 Do add the steps and commands you used to find the killer.
