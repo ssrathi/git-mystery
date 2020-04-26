@@ -17,6 +17,6 @@ Think you found the culprit? Check your answer with the following command:
 
 Replace John Doe with the name of the suspect that you want to check.
 
-IMP: Do not use `git checkout` command to switch to a different branch.
+Bonus: Try not to use `git checkout` when possible.
 
 Once you have found the killer, send it to Shyam by email (shyam.rathi@nutanix.com) or on Slack (Shyam Rathi). Do add the steps and commands you used to find the killer.
